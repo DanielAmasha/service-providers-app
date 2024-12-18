@@ -1,0 +1,5 @@
+# Ignore everything
+*
+# Except the lib folder
+!/lib/
+!/.gitignore
